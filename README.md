@@ -1,5 +1,5 @@
 ## Welcome to Bezbeli
 
-- [http://bezbeli.com]bezbeli.com
-- [http://bezbeli.ba]bezbeli.ba
-- [https://bezbeli.github.com]bezbeli.github
+- [bezbeli.com](http://bezbeli.com)
+- [bezbeli.ba](http://bezbeli.ba)
+- [bezbeli.github](https://bezbeli.github.com)
